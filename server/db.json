@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "usr_zegmem5z5",
+      "name": "JUBAIR AHAMMED",
+      "email": "cryptojubair@gmail.com",
+      "passwordHash": "cd2f8316154e1d644180db368b7aa5dfb2b5a64d177cb944825390c549735d4114bd81733c37f729d717e244b02d8903b5911474140473ebf2acf6d6a4c71c2c",
+      "salt": "365170f58b035bbd1491e56073189cdca21074972c2850fcd02a4888c3e74baa",
+      "createdAt": "2026-05-25T13:06:21.622Z",
+      "is2FAEnabled": false
+    }
+  ],
+  "accounts": [],
+  "notes": [],
+  "activityLogs": [
+    {
+      "id": "log_pi85u44xn",
+      "userId": "usr_zegmem5z5",
+      "action": "SIGNUP",
+      "details": "Registered account for email cryptojubair@gmail.com",
+      "timestamp": "2026-05-25T13:06:21.627Z"
+    }
+  ],
+  "sessions": {
+    "tok_q7wb86ogb1i8ql6cbuc71q": {
+      "userId": "usr_zegmem5z5",
+      "expiresAt": 1779721581625
+    }
+  }
+}

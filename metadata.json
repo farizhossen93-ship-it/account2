@@ -1,0 +1,6 @@
+{
+  "name": "Digital Vault Pro",
+  "description": "Secure, premium personal account and password manager with AES-256 encryption, balance tracking, activity history, and a robust notes vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
